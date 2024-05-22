@@ -5,6 +5,6 @@ This mod re-programs LifeGen to timeskip by weeks instead of moons and has adjus
 This currently runs on LifeGen version 0.7.0. Do not attempt to use the self-updater if you are given the option; this is highly likely to break the game.
 
 Credits & Special Thanks:
-- LifeGen & ClanGen development teams (base games)
+- LifeGen & ClanGen development teams (base games) (full LifeGen developer list found here: https://docs.google.com/document/d/1XCm5Eo-y5VA6W9quDMbF3VNyKL7S8_9Tl4c2buuiA8g/edit)
 - Spade/spadefriend (mod creator)
 - Jay/illadvisedart (coding help)
